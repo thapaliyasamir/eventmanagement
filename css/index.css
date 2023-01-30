@@ -1,0 +1,22 @@
+.carousel-item img{
+    margin: 30px auto;
+}
+#services h2{
+    margin: 50px auto;
+}
+.card {
+    margin: 15px auto;
+}
+#Gallery h2{
+    margin: 50px auto;
+}
+footer{
+    background: black;
+}
+footer p{
+    margin: 20px 20px auto;
+    color: white;
+}
+footer img{
+    margin: 20px auto;
+}
